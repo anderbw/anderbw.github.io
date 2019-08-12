@@ -3,4 +3,4 @@
 Our master thesis is available for download [here](master-thesis-final.pdf).
 
 ## Presentation
-Our slides are also available for download [here](2019-08-10-DC27-Biohacking_village_pacemaker_programmer.pptx).
+Our slides are also available for download [here](2019-08-10-DC27-Biohacking-pacemaker-programmer.pdf).
